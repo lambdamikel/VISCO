@@ -17,6 +17,8 @@ workstation in 1998:
 
 ![visco](pics/viscogui.png)
 
+![visco](pics/operators.png)
+
 ![mapviewer](pics/mapviewer.png)
 
 ![results](pics/results.png)
@@ -25,7 +27,7 @@ workstation in 1998:
 
 ## Papers 
 
-[Diploma theses, 1998](https://www.michael-wessel.info/papers/diplom.pdf)
+[Diploma thesis, 1998](https://www.michael-wessel.info/papers/diplom.pdf)
 
 [IEEE Symposium on Visual Languages, 1998](https://www.michael-wessel.info/papers/vl98web.pdf) 
 
