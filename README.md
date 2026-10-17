@@ -1,6 +1,8 @@
 # VISCO
 A Visual Spatial Query Language written in Common Lisp &amp; CLIM for its GUI
 
+#### Project Page: [www.michael-wessel.info/thesis.html](https://www.michael-wessel.info/thesis.html#visco)
+
 ## About
 
 This was written from 1997 - 1998, and is the program described in my
